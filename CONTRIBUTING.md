@@ -35,7 +35,7 @@ If you'd like to make a feature request, please read this section.
 The GitHub issue tracker is the preferred channel for library feature requests, but please respect the following restrictions:
 
 - Please **search for existing issues** in order to ensure we don't have duplicate bugs/feature requests.
-- Please be respectful and considerate of others when commenting on issues
+- Please be respectful and considerate of others when commenting on issues.
 
 <a name="submit-a-bug-report"></a>
 ## Submit a Bug Report
@@ -47,8 +47,8 @@ A software bug is a demonstrable issue in the code base. In order for us to diag
 Before you decide to create a new issue, please try the following:
 
 1. Check the GitHub issues tab if the identified issue has already been reported, if so, please add a +1 to the existing post.
-2. Update to the latest version of this code and check if issue has already been fixed
-3. Copy and fill in the Bug Report Template we have provided below
+2. Update to the latest version of this code and check if issue has already been fixed.
+3. Copy and fill in the Bug Report Template we have provided below.
 
 ### Please use our Bug Report Template
 
@@ -65,7 +65,7 @@ We welcome direct contributions to the open-source-library-data-collector code b
 
 ##### Prerequisites #####
 
-- The SendGrid Service, starting at the [free level](https://sendgrid.com/free?source=open-source-data-collector))
+- The SendGrid Service, starting at the [free level](https://sendgrid.com/free?source=open-source-data-collector)
 - [virtualenv](https://pypi.python.org/pypi/virtualenv)
 - [mysql](https://www.mysql.com)
 
@@ -156,7 +156,7 @@ All PRs require passing tests before the PR will be reviewed.
 
 ### Prerequisites
 
-The above local "Initial setup" is complete
+The above local "Initial setup" is complete.
 
 - [pyenv](https://github.com/yyuu/pyenv)
 - [tox](https://pypi.python.org/pypi/tox)
